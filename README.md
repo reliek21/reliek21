@@ -16,6 +16,7 @@
 - 🎓 Computer Science Student
 - 🚀 Passion for technology
 - 💻 Interested in web development and mobile development
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📡 Actively looking for projects to contribute my knowledge
 
 <br />
@@ -29,3 +30,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelex-21&layout=compact&hide_title=true&langs_count=6&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+From [Kelex-21](https://github.com/[username])

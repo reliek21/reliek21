@@ -16,10 +16,6 @@
 - 💻 Interested in web development and mobile development
 - 📡 Actively looking for projects to contribute my knowledge
 
-#### Remember
-
-> 💡 If you can imagine it you can program it.
-
 <br />
 
 ## My GitHub Stats:

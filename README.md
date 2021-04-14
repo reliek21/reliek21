@@ -13,7 +13,7 @@
 ## About me:
 
 - 🛠️ Working on cool projects 
-- 🎓 Computer Science Student
+- 🎓 Software engineering student
 - 🚀 Passion for technology
 - 💻 Interested in web development and mobile development
 - 🌱 I’m currently learning Data Structures and Algorithms

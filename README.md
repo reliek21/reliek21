@@ -12,10 +12,11 @@
 
 ## About me:
 
+- 🚀 Passion for technology
 - 🛠️ Working on cool projects 
 - 🎓 Software engineering student
-- 🚀 Passion for technology
 - ✍ I write on my free days in [dev.to](https://dev.to/kelex)
+- 🌍 I translate articles in [freeCodeCamp](https://www.freecodecamp.org/espanol/news/)
 - 💻 Interested in web development and mobile development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📡 Actively looking for projects to contribute my knowledge

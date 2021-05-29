@@ -12,7 +12,6 @@
 ## About me:
 
 - 🚀 Passion for technology
-- 🛠️ Working on cool projects 
 - 🎓 Software engineering student
 - ✍ I write on my free days in [dev.to](https://dev.to/kelex)
 - 🌍 I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/)

@@ -14,6 +14,7 @@
 - 🎓 Software engineering student
 - ✍ I write on my free days in [dev.to](https://dev.to/kelex)
 - 🌍 I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/)
+- 📱 Interested in web development and mobile development
 - 📡 Actively looking for projects to contribute my knowledge
 
 <br />

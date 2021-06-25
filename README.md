@@ -27,6 +27,4 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kegubits&show_icons=true&count_private=true&include_all_commits=false&hide_title=true&icon_color=0693E3&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kegubits&layout=compact&hide_title=true&langs_count=6&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>

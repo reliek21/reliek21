@@ -5,6 +5,7 @@
 <div align="center">
 <a href="https://twitter.com/kegubits" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=2193e3"></a>
 <a href="https://www.instagram.com/kegubits" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=c13584"></a>
+<a href="https://www.linkedin.com/in/keilerguardo/" target="_blank"><img src="https://shields.io/badge/LinkedIn-222831?logo=LinkedIn&style=for-the-badge&logoColor=EFEFEF&color=0A66C2"></a>
 <a href="https://dev.to/kegubits" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
 </div>
 

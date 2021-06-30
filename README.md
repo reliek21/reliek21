@@ -12,6 +12,10 @@
 <a href="https://dev.to/kegubits" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
 </div>
 
+<img width = "25%" align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
+
+<div align="left">
+  
 ### About me:
 
 - 🚀 Passion for technology
@@ -20,6 +24,7 @@
 - 🌍 I translate articles on <a href="https://www.freecodecamp.org/espanol/news/author/kegubits/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
 - 🌱 On a never-ending quest of learning
 - 📡 Actively looking for projects to contribute my knowledge
+</div>
 
 ## My GitHub Stats:
 

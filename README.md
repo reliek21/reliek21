@@ -12,11 +12,12 @@
 <a href="https://dev.to/kegubits" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
 </div>
 
-<img width = "30%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
-
 <br />
 
-## About me:
+
+<img width = "25%" align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
+
+### About me:
 
 - 🚀 Passion for technology
 - 🎓 Software engineering student

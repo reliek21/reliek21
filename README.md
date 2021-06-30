@@ -16,8 +16,8 @@
 
 - 🚀 Passion for technology
 - 🎓 Software engineering student
-- ✍ I write on my free days in [dev.to](https://dev.to/kegubits)
-- 🌍 I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/author/kegubits/)
+- ✍ I write on my free days in <a href="https://dev.to/kegubits" target="_blank" rel="noopener noreferrer">dev.to</a>
+- 🌍 I translate articles on <a href="https://www.freecodecamp.org/espanol/news/author/kegubits/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
 - 📡 Actively looking for projects to contribute my knowledge
 
 <br />

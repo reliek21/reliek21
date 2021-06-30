@@ -12,7 +12,7 @@
 <a href="https://dev.to/kegubits" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
 </div>
 
-<img width = "25%" align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
+<img width = "25%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
 
 <div align="left">
   

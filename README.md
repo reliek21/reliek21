@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+
+<img src="assets/images/image.png" alt="image">
+
 <a href="https://twitter.com/kegubits" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
 <a href="https://www.instagram.com/kegubits" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>
 <a href="https://www.linkedin.com/in/keilerguardo/" target="_blank"><img src="https://shields.io/badge/LinkedIn-222831?logo=LinkedIn&style=for-the-badge&logoColor=EFEFEF&color=0A66C2"></a>

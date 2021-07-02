@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kegubits/Kegubits/main/assets/images/image.png?raw=true" alt="image">
+<img src="https://raw.githubusercontent.com/Kegubits/Kegubits/main/assets/images/image2.png?raw=true" alt="image">
 
 <a href="https://twitter.com/kegubits" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
 <a href="https://www.instagram.com/kegubits" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>
@@ -26,12 +26,14 @@
 - 📡 Actively looking for projects to contribute my knowledge
 </div>
 
+<br />
+
 ## My GitHub Stats:
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kegubits&layout=compact&hide_title=true&langs_count=6&hide_border=false&bg_color=222831&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kegubits&layout=compact&hide_title=true&langs_count=6&hide_border=false&bg_color=22272E&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kegubits&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&icon_color=0693E3&hide_border=false&bg_color=222831&text_color=FFFFFF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kegubits&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&icon_color=0693E3&hide_border=false&bg_color=22272E&text_color=FFFFFF)
 
 </div>

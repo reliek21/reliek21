@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kegubits/Kegubits/main/assets/images/image2.png?raw=true" alt="image">
+<img src="https://raw.githubusercontent.com/Kegubits/Kegubits/main/assets/images/image.png?raw=true" alt="image">
 
 <a href="https://twitter.com/kegubits" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
 <a href="https://www.instagram.com/kegubits" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>

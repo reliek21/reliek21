@@ -6,8 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/Kegubits/Kegubits/main/assets/images/image.png?raw=true" alt="image">
 
-<a href="https://twitter.com/heguke" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
-<a href="https://www.instagram.com/heguke" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>
+<a href="https://twitter.com/heguke21" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
+<a href="https://www.instagram.com/keilergh21" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>
 <a href="https://www.linkedin.com/in/keilerguardo/" target="_blank"><img src="https://shields.io/badge/LinkedIn-222831?logo=LinkedIn&style=for-the-badge&logoColor=EFEFEF&color=0A66C2"></a>
 <a href="https://dev.to/heguke21" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
 </div>

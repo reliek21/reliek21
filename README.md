@@ -6,10 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/Kegubits/Kegubits/main/assets/images/image.png?raw=true" alt="image">
 
-<a href="https://twitter.com/heguke21" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
+<a href="https://twitter.com/reliek21" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
 <a href="https://www.instagram.com/keilergh21" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>
 <a href="https://www.linkedin.com/in/keilerguardo/" target="_blank"><img src="https://shields.io/badge/LinkedIn-222831?logo=LinkedIn&style=for-the-badge&logoColor=EFEFEF&color=0A66C2"></a>
-<a href="https://dev.to/heguke21" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
+<a href="https://dev.to/reliek" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
 </div>
 
 <img width = "25%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
@@ -20,8 +20,8 @@
 
 - 🚀 Passion for technology
 - 🎓 Software engineering student
-- ✍ I write on my free days in <a href="https://dev.to/heguke21" target="_blank" rel="noopener noreferrer">dev.to</a>
-- 🌍 I translate articles on <a href="https://www.freecodecamp.org/espanol/news/author/heguke/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
+- ✍ I write on my free days in <a href="https://dev.to/reliek" target="_blank" rel="noopener noreferrer">dev.to</a>
+- 🌍 I translate articles on <a href="https://www.freecodecamp.org/espanol/news/author/reliek/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
 - 🌱 On a never-ending quest of learning
 - 📡 Actively looking for projects to contribute my knowledge
 </div>
@@ -32,8 +32,8 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heguke&layout=compact&hide_title=true&langs_count=6&hide_border=false&bg_color=22272E&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliek&layout=compact&hide_title=true&langs_count=6&hide_border=false&bg_color=22272E&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=heguke&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&icon_color=F08A5D&hide_border=false&bg_color=22272E&text_color=FFFFFF&theme=calm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&icon_color=F08A5D&hide_border=false&bg_color=22272E&text_color=FFFFFF&theme=calm)
 
 </div>

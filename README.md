@@ -26,12 +26,10 @@
 
 <br />
 
-## My GitHub Stats:
-
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliek&layout=compact&hide_title=true&langs_count=6&hide_border=false&bg_color=22272E&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliek&layout=compact&hide_title=true&langs_count=6&hide_border=false&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&icon_color=F08A5D&hide_border=false&bg_color=22272E&text_color=FFFFFF&theme=calm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
 </div>

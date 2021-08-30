@@ -29,8 +29,8 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliek&layout=compact&hide_title=true&langs_count=6&hide_border=false&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliek&layout=compact&hide_title=true&langs_count=6&hide_border=false&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=discord_old_blurple)
 
 </div>

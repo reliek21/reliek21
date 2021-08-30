@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<a href="https://twitter.com/reliek21" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=for-the-badge&logoColor=EFEFEF&color=1DA1F2"></a>
-<a href="https://www.instagram.com/keilergh21" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=for-the-badge&logoColor=EFEFEF&color=E4405F"></a>
-<a href="https://www.linkedin.com/in/keilerguardo/" target="_blank"><img src="https://shields.io/badge/LinkedIn-222831?logo=LinkedIn&style=for-the-badge&logoColor=EFEFEF&color=0A66C2"></a>
-<a href="https://dev.to/reliek" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=for-the-badge&logoColor=EFEFEF&color=0a0a0a"></a>
+<a href="https://twitter.com/reliek21" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/keilergh21" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/keilerguardo/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://dev.to/reliek" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </div>
 
 <img width = "25%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />

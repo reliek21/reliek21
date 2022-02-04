@@ -29,10 +29,6 @@
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliek21&layout=compact&hide_title=true&langs_count=8&hide_border=false&bg_color=151515&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)-->
   
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reliek21&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-  
-<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=reliek21&bg_color=151515&color=ffffff&line=fa8b00&point=ffffff&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-  
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek21&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=151515&theme=slateorange)-->
+<!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=reliek21&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=151515&theme=slateorange)-->
   
 </div>

@@ -15,8 +15,8 @@
   
 ### About me:
 
+- 🎓 Systems Engineer
 - 🚀 Passion for technology
-- 🎓 Software Engineer
 - ✍ I write on my free days in [dev.to](https://dev.to/reliek21)
 - 🌍 I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/author/keilerguardo)
 - 🌱 On a never-ending quest of learning

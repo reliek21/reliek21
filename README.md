@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://dev.to/reliek21"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://www.freecodecamp.org/espanol/news/author/reliek21"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></a>
+<a href="https://www.freecodecamp.org/espanol/news/author/keilerguardo"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></a>
 <a href="https://www.linkedin.com/in/keilerguardo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/reliek21"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </div>

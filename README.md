@@ -10,7 +10,7 @@
 </div>
 
 
-<img width = "25%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />
+<!-- <img width = "25%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />-->
 
 <div align="left">
   

@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi there</h1>
 
 <div align="center">
 <a href="https://dev.to/reliek21"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>

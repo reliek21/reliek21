@@ -1,24 +1,19 @@
 <div align="center">
-<h1>Hi there</h1>
-
-<div align="center">
-<a href="https://dev.to/reliek21"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://www.freecodecamp.org/espanol/news/author/keilerguardo"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></a>
-<a href="https://www.linkedin.com/in/keilerguardo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/reliek21"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://www.producthunt.com/@reliek21"><img src="https://img.shields.io/badge/product hunt-DA552F.svg?style=for-the-badge&logo=Product%20Hunt&logoColor=white"></a>
+  <h1>Hi there 👋</h1>
 </div>
 
 
-<!-- <img width = "25%" align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/1lznwaBnIHPSdFxryV/giphy.gif" />-->
+My name is Keiler, I'm from **Colombia** and I'm an **Full-Stack** developer
+- Software Engineer
+- Currently working for  @clockpi as a Full-Stack
+- Creating products in [Product Hunt](https://www.producthunt.com/@reliek21)
+- I write on my free days on [dev.to](https://dev.to/reliek21)
+- I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/author/keilerguardo)
 
-<div align="left">
-  
-### About me:
+## Skills
+- I specialize in **JavaScript** & **TypeScript**.
+- Coding with **React**, **Nodejs** and **Express**
+- Critical thinking, desicion-making and problem solvin skills
 
-- 🎓 Systems Engineer
-- 🚀 Passion for technology
-- ✍ I write on my free days in [dev.to](https://dev.to/reliek21)
-- 🌍 I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/author/keilerguardo)
-- 🌱 On a never-ending quest of learning
-</div>
+## Contact
+Find all of my socials and resumen in my [website](https://keilerguardo.tech/)

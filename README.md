@@ -13,7 +13,7 @@ My name is Keiler, I'm from **Colombia** and I'm an **Full-Stack** developer
 ## Skills
 - I specialize in **JavaScript** & **TypeScript**.
 - Coding with **React**, **Nodejs** and **Express**
-- Critical thinking, desicion-making and problem solvin skills
+- Critical thinking, decision-making and problem solving skills
 
 ## Contact
 Find all of my socials and resumen in my [website](https://keilerguardo.tech/)

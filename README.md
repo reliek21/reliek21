@@ -16,4 +16,4 @@ My name is Keiler, I'm from **Colombia** and I'm an **FullStack** developer
 - Critical thinking, decision-making and problem solving skills
 
 ## Contact
-Find all of my socials and resumen in my [website](https://keilerguardo.tech/)
+You can find my projects, resume and social media at my [website](https://keilerguardo.tech/)

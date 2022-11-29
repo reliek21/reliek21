@@ -10,8 +10,8 @@ My name is Keiler, I'm from **Colombia** and I'm a Web developer
 - I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/author/keilerguardo)
 
 ## Skills
-- I specialize in **JavaScript** & **TypeScript**.
-- Coding with **React**, **Nodejs** and **Express**
+- I specialize in **JavaScript**, **TypeScript** and **Dart**.
+- Coding with **Flutter***, **React**, **NextJS**, **Express** and **NestJS**
 - Critical thinking, decision-making and problem solving skills
 
 ## Contact

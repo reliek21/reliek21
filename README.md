@@ -11,7 +11,8 @@ My name is Keiler, I'm from **Colombia** and I'm a Web developer
 
 ## Skills
 - I specialize in **JavaScript**, **TypeScript** and **Dart**.
-- Coding with **Flutter***, **React**, **NextJS**, **Express** and **NestJS**
+- Coding with **Flutter**, **React**, **NextJS**, **Express** and **NestJS**
+- Services used: **Firebase**, **Supabase**, **Google Cloud Platform**
 - Critical thinking, decision-making and problem solving skills
 
 ## Contact

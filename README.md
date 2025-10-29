@@ -6,7 +6,7 @@
 My name is Keiler, I'm from **Colombia** and I'm a **Full-stack Developer**
 - Currently working on my project [@keppli](https://github.com/keppli)
 - Creating products in [product Hunt](https://www.producthunt.com/@reliek21)
-- I write on my free days on [dev.to](https://dev.to/reliek21)
+- I write on my free days on [dev.to](https://dev.to/reliek21) | [Hacker News](https://news.ycombinator.com/item?id=44407503) | [Personal Blog](https://keilerguardo.com/posts)
 - I translate articles on [freeCodeCamp](https://www.freecodecamp.org/espanol/news/author/keilerguardo)
 
 ## Skills
